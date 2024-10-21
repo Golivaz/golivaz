@@ -32,7 +32,7 @@ Sou estudante de **Engenharia da Computação**, atualmente no 10º período, co
 ### 📊 Minhas estatísticas no GitHub:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=golivaz&show_icons=true&theme=radical&card_width=400)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=golivaz&layout=compact&theme=radical&card_width=400)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=golivaz&layout=compact&theme=radical&card_width=400&langs_count=8)
 
 ---
 
