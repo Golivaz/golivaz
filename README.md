@@ -1,49 +1,47 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Guilherme Rodrigues!
 
-<!--
-**Golivaz/golivaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia da Computação**, atualmente no 10º período, com paixão por **desenvolvimento web** e tecnologias modernas. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Olá! 👋 Eu sou o João Silva!
-
-Sou um desenvolvedor Fullstack com foco em construir aplicações eficientes e escaláveis.
-
-- 💻 Atualmente, trabalho com: **Node.js, React, Python**
-- 🚀 Apaixonado por open-source e novas tecnologias
-- 🌱 Sempre aprendendo algo novo, atualmente estou me aprofundando em **Machine Learning**
-- 🎯 Meus objetivos: contribuir para projetos que impactam a sociedade.
+- 💻 Trabalho com: **PHP, CSS, HTML, JavaScript, Laravel**
+- 🌱 Sempre disposto a aprender coisas novas e enfrentar desafios tecnológicos.
+- 🚀 Em busca de oportunidades para crescer profissionalmente e colaborar com projetos inovadores.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+### 🌐 Vamos nos conectar?
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/guioliva_/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rodrigues-21102a158/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/golivaz)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=flat&logo=vercel&logoColor=white)](https://portifolio-guilherme-rodrigues.gmmecatronica.com/)
+
+📧 **E-mail:** [goliva12@hotmail.com](mailto:goliva12@hotmail.com)
 
 ---
 
 ### 📊 Minhas estatísticas no GitHub:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaodasilva&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaodasilva&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=golivaz&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=golivaz&layout=compact&theme=radical)
 
 ---
 
-### Vamos nos conectar?
+### 🚀 Sobre mim:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaodasilva/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/joaodasilva)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat&logo=codepen&logoColor=white)](https://seuportifolio.com)
+Atualmente cursando o último ano de **Engenharia da Computação**, tenho grande interesse em **desenvolvimento web**, especialmente nas tecnologias como **PHP, JavaScript, Laravel, HTML, CSS**. Estou sempre aprendendo, buscando novas oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.
+
+Em meu tempo livre, gosto de explorar novas linguagens de programação e frameworks, além de colaborar com projetos open-source e participar de comunidades de desenvolvedores.
+
+---
+
+✨ **Obrigado por visitar meu perfil!** Se você deseja colaborar ou simplesmente conversar sobre tecnologia, não hesite em me contatar! ✨
