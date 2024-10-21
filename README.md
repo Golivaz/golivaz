@@ -39,7 +39,7 @@ Sou estudante de **Engenharia da Computação**, atualmente no 10º período, co
 
 Atualmente cursando o último ano de **Engenharia da Computação**, tenho grande interesse em **desenvolvimento web**, especialmente nas tecnologias como **PHP, JavaScript, HTML, CSS**. Estou sempre aprendendo, buscando novas oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.
 
-Em meu tempo livre, gosto de explorar novas linguagens de programação e frameworks, além de colaborar com projetos open-source e participar de comunidades de desenvolvedores.
+Em meu tempo livre, gosto de explorar novas linguagens de programação e frameworks.
 
 ---
 
