@@ -33,9 +33,9 @@ Em meu tempo livre, gosto de explorar novas linguagens de programação e framew
 
 ## 📊 Minhas estatísticas no GitHub:
 
-![Guilherme Rodrigues' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Golivaz&show_icons=true&theme=radical&cache_seconds=1800)
+![Guilherme Rodrigues' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Golivaz&show_icons=true&theme=radical&cache_seconds=100)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Golivaz&layout=compact&theme=radical&cache_seconds=1800)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Golivaz&layout=compact&theme=radical&cache_seconds=100)
 
 ---
 
