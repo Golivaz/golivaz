@@ -1,8 +1,11 @@
-# Olá! 👋 Eu sou o Guilherme Rodrigues!
+# Olá!  Eu sou o Guilherme Rodrigues! 👋
 
-Sou estudante de **Engenharia da Computação**, atualmente no 10º período, com paixão por **desenvolvimento web** e tecnologias modernas. 
+### 🚀 Sobre mim:
 
-- 💻 Trabalho com: **PHP, CSS, HTML, JavaScript, C++, Python**
+Atualmente cursando o último ano de **Engenharia da Computação**, tenho grande interesse em **desenvolvimento web**, especialmente nas tecnologias como **PHP, JavaScript, HTML, CSS**. Estou sempre aprendendo, buscando novas oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.
+
+Em meu tempo livre, gosto de explorar novas linguagens de programação e frameworks.
+
 - 🌱 Sempre disposto a aprender coisas novas e enfrentar desafios tecnológicos.
 - 🚀 Em busca de oportunidades para crescer profissionalmente e colaborar com projetos inovadores.
 
@@ -35,12 +38,6 @@ Sou estudante de **Engenharia da Computação**, atualmente no 10º período, co
 
 ---
 
-### 🚀 Sobre mim:
 
-Atualmente cursando o último ano de **Engenharia da Computação**, tenho grande interesse em **desenvolvimento web**, especialmente nas tecnologias como **PHP, JavaScript, HTML, CSS**. Estou sempre aprendendo, buscando novas oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.
-
-Em meu tempo livre, gosto de explorar novas linguagens de programação e frameworks.
-
----
 
 ✨ **Obrigado por visitar meu perfil!** Se você deseja colaborar ou simplesmente conversar sobre tecnologia, não hesite em me contatar! ✨
